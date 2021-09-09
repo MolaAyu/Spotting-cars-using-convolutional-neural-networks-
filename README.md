@@ -8,9 +8,9 @@ Purposes of the project:
 
 # Steps: 
 
-1 -  Loading images from a directory
-2 -  Training a convolutional neural network
-3  - Data augmentation
-4-  Applying a pre-trained convolutional neural network  ImageNet.
-5 - Using VGG-16 as a feature extractor
-6-  Visualizing the learned features
+* Loading images from a directory
+* Training a convolutional neural network
+* Data augmentation
+* Applying a pre-trained convolutional neural network  ImageNet.
+* Using VGG-16 as a feature extractor
+* Visualizing the learned features
